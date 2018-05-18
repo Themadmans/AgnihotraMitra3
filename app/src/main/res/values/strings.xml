@@ -1,0 +1,38 @@
+<resources>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_app">Agnihotra Buddy</string>
+    <string name="title_add_location">Add Location</string>
+    <string name="title_delete_all_locations">Delete all Locations</string>
+    <string name="message_please_wait">Please wait , timings are being downloaded..</string>
+    <string name="message_no_internet">No internet connection</string>
+    <string name="message_no_gps">Please turn on GPS</string>
+    <string name="title_Use_Maps">Use Google Maps</string>
+    <string name="title_Manually">Enter Manually</string>
+    <string name="title_later">Do it later</string>
+    <string name="message_error">Error Processing Request. Please try again ! </string>
+    <string name="title_settings">Settings</string>
+    <string name="title_Contacts">Contacts</string>
+    <string name="title_about">About</string>
+    <string name="title_homeloc">Home Location</string>
+    <string name="title_change">CHANGE</string>
+    <string name="title_general">General</string>
+    <string name="title_screnon">Screen Always On</string>
+    <string name="title_clock">24 hours clock</string>
+    <string name="title_meditationbell">Meditation Bell</string>
+    <string name="title_countd">Display Countdown</string>
+    <string name="message_screen">Keeps screen awake while app is open</string>
+    <string name="message_clock">Change time format to 12 or 24 hours</string>
+    <string name="message_bell">Rings bell at time of Agnihotra</string>
+    <string name="message_countd">Display countdown or clock in centre</string>
+    <string name="title_done">Done</string>
+    <string name="message_delete_confirm">Are you sure you wish to delete all locations ?</string>
+    <string name="title_proceed">Proceed</string>
+    <string name="title_cancel">Cancel</string>
+    <string-array name="languages">
+        <item>Choose Language</item>
+        <item>Hindi</item>
+        <item>English</item>
+    </string-array>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
